@@ -1,4 +1,4 @@
-# Deepseek R1:8b Chat
+# Deepseek R1:8b Chat Bot
 
 This is a futuristic chat application built using Streamlit, powered by the Deepseek R1:8b model via the Ollama API.
 
