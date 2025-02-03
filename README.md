@@ -28,6 +28,3 @@ pip install streamlit ollama
    ```
 4. **The app will launch in your web browser. Interact with the AI assistant through the chat interface.**
 
-
-## License:
-This project is licensed under the MIT License - see the LICENSE file for details.
