@@ -12,7 +12,6 @@ This is a futuristic chat application built using Streamlit, powered by the Deep
 ### Python Packages:
 - `streamlit` (for building the web app)
 - `ollama` (for interacting with the Deepseek R1:8b model)
-- `random` (for selecting random placeholder text)
 
 To install the required packages, run the following:
 
@@ -27,7 +26,7 @@ pip install streamlit ollama
    ```bash
    streamlit run app.py
    ```
-4. The app will launch in your web browser. Interact with the AI assistant through the chat interface.
+4. **The app will launch in your web browser. Interact with the AI assistant through the chat interface.**
 
 
 ## License:
